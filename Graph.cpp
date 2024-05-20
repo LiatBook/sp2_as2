@@ -250,7 +250,7 @@ Graph Graph::operator-(const Graph& other)
          g2[i][j] = g[i][j] - other.getGraph()[i][j];
       }
    }
-   result.loadGraph(g2);
+    result.loadGraph(g2);
   return result;
 }
 
