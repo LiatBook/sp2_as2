@@ -1,4 +1,5 @@
-#!make -f
+#212736417
+#bookliat@gmail.com
 
 CXX=g++
 CXXFLAGS=-std=c++11 -Werror -Wsign-conversion -g
